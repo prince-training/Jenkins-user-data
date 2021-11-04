@@ -1,0 +1,5 @@
+FROM alpine
+
+MAINTAINER "Mysister"
+
+CMD ["echo", "Hello, Welcome to cloudworld!"]
